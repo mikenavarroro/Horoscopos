@@ -80,3 +80,9 @@ button:hover{
 .formulario{
   display: block;
 }
+
+.parrafo-signo{
+  margin: 50px 50px;
+  font-weight: 600;
+  font-size: 20px;
+}
